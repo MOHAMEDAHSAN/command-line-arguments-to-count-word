@@ -18,7 +18,12 @@ Anaconda - Python 3.7
 ### Step 6: 
 
 ## PROGRAM:
-
+~~~Python
+import sys
+f=open(sys.argv[1],'r')
+a=f.read().split()
+print('Words : ',len(a))
+~~~
 ### OUTPUT:
 
 
