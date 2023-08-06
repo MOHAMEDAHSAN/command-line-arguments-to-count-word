@@ -26,7 +26,7 @@ print('Words : ',len(a))
 ~~~
 ### OUTPUT:
 
-
+![output](/Screenshot%202023-07-25%20142841.png)
 
 ## RESULT:
 Thus the program is written to find the word count from the contents of a file using command line arguments.
